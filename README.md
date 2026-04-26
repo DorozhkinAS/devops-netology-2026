@@ -30,9 +30,11 @@ ____________________________________________________________
 
                                  Выполнено
 
-<img width="1073" height="342" alt="image" src="https://github.com/user-attachments/assets/e3de736c-0a30-4f4e-adb6-e0ed0378af69" />
 
-<img width="963" height="367" alt="image" src="https://github.com/user-attachments/assets/df65182b-de51-427d-9f2c-914425d95381" />
+<img width="1064" height="445" alt="image" src="https://github.com/user-attachments/assets/0ac68e72-2c8b-42c7-b49a-68bcd7f4303c" />
+
+
+
 
 
 
